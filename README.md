@@ -1,6 +1,6 @@
 # Salve rapaziada | Sup y'all
 
-![Root Developer]([https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif](https://media3.giphy.com/media/Q61LJj43H48z1FIK4X/200w.webp?cid=ecf05e47fuxuo24kr4ukaxlnjqucofw3jk2ugby243zhwgu4&rid=200w.webp&ct=g))<!--(https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)-->
+![Root Developer](https://media.giphy.com/media/Q61LJj43H48z1FIK4X/giphy-downsized-large.gif)<!--(https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)-->
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
