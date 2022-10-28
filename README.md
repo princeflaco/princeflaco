@@ -18,7 +18,7 @@ I speak portuguese, almost fluent english and spanishguese (bad spanish + portug
 
 Currently I have developed some personal projects with **Java** ☕, but i'm not attached to any programming language xD
 
-I'm also having the opportunity to do some projects with **API Rest** and **JSON**, which are the main subject at my job currently.
+I'm also having the opportunity to do some projects with Azure Functions including EventHubs (Sync and Async REST APIs), which are the main subject at my job currently.
 
 <a href="https://www.linkedin.com/in/leonardo-bezerra-bispo/"> 
   LinkedIn
