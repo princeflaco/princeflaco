@@ -1,14 +1,14 @@
 # Leonardo Bezerra Bispo
 
-### 👋 Olá! Bem-vindo ao meu perfil do GitHub!
+### 👋 Eai!
 
-Sou Leonardo Bezerra Bispo, desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Tenho experiência em diversas tecnologias e um interesse especial por arquitetura limpa e sistemas distribuídos.
+Sou o Leonardo, sou desenvolvedor de software e desde cedo tenho paixão por tecnologia! Sou aficionado por jogos, luta, futebol e muitas outras coisas! Tenho experiência em diversas tecnologias e um interesse especial por arquitetura limpa e sistemas distribuídos.
 
 ## 🛠️ Competências Técnicas
 
 - **Linguagens de Programação**: Java e Golang
 - **Frameworks**: Spring Boot e Gin
-- **Arquitetura**: Microservices, Event-Driven Architecture, Hexagonal Architecture
+- **Arquitetura**: Microservices, Event-Driven Architecture, Hexagonal Architecture, Clean Architecture
 - **Cloud**: Azure e AWS
 - **Banco de Dados**: SQL e NoSQL
 - **DevOps**: Docker, Kubernetes e CI/CD
@@ -29,8 +29,6 @@ Sou Leonardo Bezerra Bispo, desenvolvedor de software apaixonado por criar solu�
 ### Sennatech
 - **Desenvolvimento de APIs RESTful**: Criação de APIs utilizando Spring Boot, focando em escalabilidade e manutenção.
 - **Arquitetura Hexagonal**: Implementação para garantir modularidade e independência de infraestrutura.
-
-
 
 ## 🌱 Projetos Recentes
 
