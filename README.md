@@ -16,18 +16,21 @@ Sou Leonardo Bezerra Bispo, desenvolvedor de software apaixonado por criar solu�
 
 ## 📚 Experiência
 
-### Rede
-- Desenvolvimento de APIs escalaveis em Golang
-- API implementadas em Clean Arch
-- Implementaçao em arquitetura orientada a microsserviços e eventos
-
-### Sennatech
-- Desenvolvimento de APIs RESTful utilizando Spring Boot.
-- Implementação da arquitetura hexagonal para garantir modularidade e manutenibilidade.
+### Rede (atualmente)
+- **Aplicações Escaláveis**: Desenvolvimento de sistemas em Golang, com foco em escalabilidade e eficiência.
+- **Arquitetura Orientada a Eventos**: Implementação ocasional de soluções orientadas a eventos.
+- **Mensageria**: Experiência com Solace PubSub, SNS e SQS.
+- **Documentação**: Criação de documentação de APIs usando OpenAPI.
 
 ### Zurich
-- Desenvolvimento de soluções em nuvem utilizando Azure Functions, API Management Azure, e Event Hubs.
-- Integração de sistemas com Azure Data Factory e Swagger Open API.
+- **Soluções em Nuvem**: Desenvolvimento de aplicações com Azure Functions e API Management Azure.
+- **Integração de Sistemas**: Utilização de Azure Data Factory e documentação com Swagger Open API.
+
+### Sennatech
+- **Desenvolvimento de APIs RESTful**: Criação de APIs utilizando Spring Boot, focando em escalabilidade e manutenção.
+- **Arquitetura Hexagonal**: Implementação para garantir modularidade e independência de infraestrutura.
+
+
 
 ## 🌱 Projetos Recentes
 
