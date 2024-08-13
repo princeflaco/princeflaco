@@ -1,19 +1,42 @@
-<h1 align="center">Hi 👋, I'm Leonardo!</h1>
-<h3 align="center">I develop things with things to do things lol</h3>
+# Leonardo Bezerra Bispo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeflaco&label=Profile%20views&color=0e75b6&style=flat" alt="princeflaco" /> </p>
+### 👋 Olá! Bem-vindo ao meu perfil do GitHub!
 
-<p align="left"> <a href="https://twitter.com/l_bzrr" target="blank"><img src="https://img.shields.io/twitter/follow/l_bzrr?logo=twitter&style=for-the-badge" alt="l_bzrr" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/l_bzrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l_bzrr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardo-bezerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-bezerra" height="30" width="40" /></a>
-<a href="https://instagram.com/l_bzrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l_bzrr" height="30" width="40" /></a>
-</p>
+Sou Leonardo Bezerra Bispo, desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Tenho experiência em diversas tecnologias e um interesse especial por arquitetura limpa e sistemas distribuídos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🛠️ Competências Técnicas
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeflaco&show_icons=true&locale=en&layout=compact" alt="princeflaco" /></p>
+- **Linguagens de Programação**: Java e Golang
+- **Frameworks**: Spring Boot e Gin
+- **Arquitetura**: Microservices, Event-Driven Architecture, Hexagonal Architecture
+- **Cloud**: Azure e AWS
+- **Banco de Dados**: SQL e NoSQL
+- **DevOps**: Docker, Kubernetes e CI/CD
+- **Ferramentas de Gestão de Código**: Git
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeflaco&show_icons=true&locale=en" alt="princeflaco" /></p>
+## 📚 Experiência
+
+### Rede
+- Desenvolvimento de APIs escalaveis em Golang
+- API implementadas em Clean Arch
+- Implementaçao em arquitetura orientada a microsserviços e eventos
+
+### Sennatech
+- Desenvolvimento de APIs RESTful utilizando Spring Boot.
+- Implementação da arquitetura hexagonal para garantir modularidade e manutenibilidade.
+
+### Zurich
+- Desenvolvimento de soluções em nuvem utilizando Azure Functions, API Management Azure, e Event Hubs.
+- Integração de sistemas com Azure Data Factory e Swagger Open API.
+
+## 🌱 Projetos Recentes
+
+- **[Transfer API](https://github.com/princeflaco/transfer-api)**: Um serviço de transferência de dinheiro em Go, utilizando Clean Architecture para modularidade e eficiência.
+
+## 📫 Contato
+
+- **Email**: leobbispo@hotmail.com
+- **LinkedIn**: [leonardobispo](https://www.linkedin.com/in/leonardobispo)
+
+Estou sempre aberto a novas oportunidades e colaborações interessantes. Sinta-se à vontade para entrar em contato!
+
