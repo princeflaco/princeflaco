@@ -16,7 +16,12 @@ Sou o Leonardo, sou desenvolvedor de software e desde cedo tenho paixão por tec
 
 ## 📚 Experiência
 
-### Rede (atualmente)
+### Itaú Unibanco (Atualmente)
+- **Criacao de Framework Personalizado**
+- **Stackspots**
+- **Java 17 com Spring 3**
+
+### Rede
 - **Aplicações Escaláveis**: Desenvolvimento de sistemas em Golang, com foco em escalabilidade e eficiência.
 - **Arquitetura Orientada a Eventos**: Implementação ocasional de soluções orientadas a eventos.
 - **Mensageria**: Experiência com Solace PubSub, SNS e SQS.
