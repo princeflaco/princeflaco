@@ -6,8 +6,8 @@ Sou o Leonardo, sou desenvolvedor de software e desde cedo tenho paixão por tec
 
 ## 🛠️ Competências Técnicas
 
-- **Linguagens de Programação**: Java e Golang
-- **Frameworks**: Spring Boot e Gin
+- **Linguagens de Programação**: Java, Golang e C#
+- **Frameworks**: Spring Boot, Gin e .NET
 - **Arquitetura**: Microservices, Event-Driven Architecture, Hexagonal Architecture, Clean Architecture
 - **Cloud**: Azure e AWS
 - **Banco de Dados**: SQL e NoSQL
@@ -17,9 +17,9 @@ Sou o Leonardo, sou desenvolvedor de software e desde cedo tenho paixão por tec
 ## 📚 Experiência
 
 ### Itaú Unibanco (Atualmente)
-- **Criacao de Framework Personalizado**
-- **Stackspots**
-- **Java 17 com Spring 3**
+- **Criação de framework personalizado oferecendo facilitadores a partir das diretrizes internas**
+- **Criação de plugins para o EDP Stackspot, que fornece criação de aplicações com fluxos facilitados**
+- **Atualmente .NET Core 8, porém, previamente trabalhei com Java 17+**
 
 ### Rede
 - **Aplicações Escaláveis**: Desenvolvimento de sistemas em Golang, com foco em escalabilidade e eficiência.
@@ -28,7 +28,7 @@ Sou o Leonardo, sou desenvolvedor de software e desde cedo tenho paixão por tec
 - **Documentação**: Criação de documentação de APIs usando OpenAPI.
 
 ### Zurich
-- **Soluções em Nuvem**: Desenvolvimento de aplicações com Azure Functions e API Management Azure.
+- **Soluções em Nuvem**: Desenvolvimento de aplicações Java com Azure Functions e API Management Azure.
 - **Integração de Sistemas**: Utilização de Azure Data Factory e documentação com Swagger Open API.
 
 ### Sennatech
